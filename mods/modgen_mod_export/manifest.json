@@ -1,0 +1,46 @@
+{
+	"bounds" : 
+	{
+		"max" : 
+		{
+			"x" : 0.0,
+			"y" : 1.0,
+			"z" : 0.0
+		},
+		"min" : 
+		{
+			"x" : -1.0,
+			"y" : 0.0,
+			"z" : -1.0
+		}
+	},
+	"chunks" : 3.0,
+	"mtime" : 1702929523.0,
+	"next_id" : 20.0,
+	"node_mapping" : 
+	{
+		"air" : 0.0,
+		"evilsam_nodes:block1" : 12.0,
+		"evilsam_nodes:block2" : 5.0,
+		"evilsam_nodes:car" : 1.0,
+		"evilsam_nodes:evilsam" : 7.0,
+		"evilsam_nodes:floor1" : 6.0,
+		"evilsam_nodes:floor2" : 11.0,
+		"evilsam_nodes:floor3" : 2.0,
+		"evilsam_nodes:floor4" : 10.0,
+		"evilsam_nodes:floor5" : 15.0,
+		"evilsam_nodes:floor6" : 3.0,
+		"evilsam_nodes:floor7" : 13.0,
+		"evilsam_nodes:lamp" : 4.0,
+		"evilsam_nodes:lamp2" : 8.0,
+		"evilsam_nodes:lava" : 18.0,
+		"evilsam_nodes:monkey" : 9.0,
+		"evilsam_nodes:protected_block" : 16.0,
+		"evilsam_nodes:protected_block2" : 14.0,
+		"evilsam_nodes:sword" : 19.0,
+		"evilsam_nodes:wheel" : 17.0
+	},
+	"size" : 14994.0,
+	"uid" : "859144",
+	"version" : 4.0
+}
