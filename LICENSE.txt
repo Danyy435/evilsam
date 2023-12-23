@@ -1,6 +1,6 @@
 CODE
 every mod is licensed under mit including modgen_mod_export
-textures are licensed
+textures are licensed under CC-BY-SA 4.0
 MIT
 Copyright <2023><dagm>
 
